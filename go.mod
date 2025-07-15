@@ -1,3 +1,3 @@
 module github.com/parkertr/deck
 
-go 1.21
+go 1.24

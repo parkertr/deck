@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("=== Deck of Cards Library Demo ===\n")
+	fmt.Println("=== Deck of Cards Library Demo ===")
 
 	// Create a new deck
 	d := deck.NewDeck()
